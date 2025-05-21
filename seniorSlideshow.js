@@ -8,11 +8,11 @@ const mediaElements = document.querySelectorAll('.media');
     "One of the first attempts at using color",
     "Shading practice by using gray scales to make shapes/volumes stand out",
     "More shading practice using gray scales",
-    "banner I made for social media, whilst also praticing how color & values affectes shadows",
+    "A banner I made for social media, whilst also praticing how color & values affectes shadows",
     "A futuristic spaceman with a robotic leg",
     "A seal with experimental lineart and shadow colors",
-    "Original character, Mr. Ollie, a cat that dresses & is a succesful business man",
-    "a character I drew another person asked me to do"
+    "An Original character, Mr. Ollie, a cat that dresses & is a succesful business man",
+    "A character I drew another person asked me to do"
   ];
 
   let currentIndex = 0;

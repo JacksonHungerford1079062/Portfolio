@@ -4,8 +4,8 @@ const mediaElements = document.querySelectorAll('.media');
   const caption = document.getElementById('caption');
 
   const captions = [
-   "Phyiscal Hardware - Example of my experience with physical hardware <br> this example is my home computer, I originaly had a pre-built. But after a freak accident that caused multiple parts to be coroded in bleach, I had to test every part to see if it still functions, and then rebuild the pc from scratch with old parts & newely bought ones",
-   "OS Management - making  basic windows 10 boot drive to use for the future",
+   "Phyiscal Hardware - Example of my experience with physical hardware this example is my home computer, I originaly had a pre-built. But after a freak accident that caused multiple parts to be coroded in bleach, I had to test every part to see if it still functions, and then rebuild the pc from scratch with old parts & newely bought ones",
+   "OS Management - making basic windows 10 boot drive to use for the future",
    "Server Administration 1/2 - making a physical domain server that clients can connect to directly",
    "Server Administration 2/2 - example of phyiscal domain file sharing", 
    "Virtualization 1/2 - Using a aplication called Virtual Box to make virtual machines of multiple operating systems", 
