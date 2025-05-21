@@ -1,0 +1,68 @@
+html{
+    background-image: url(gifs/star.gif);
+}
+
+#Workspace {
+    background-image: url(gifs/workspace2.png);
+    height: 2500px;
+    width: 1000px;
+    margin:auto;
+    color: white;
+}
+#go_back {
+    margin-left:50px;
+    color:rgb(101, 25, 223);
+}
+
+#title{
+    display: inline-block;
+    background-image: url(gifs/certs_Title.gif);
+    height:106.5px;
+    width:450px;
+
+    margin-top: 50px;
+    margin-left: 140px;
+    
+}
+
+.certifcation{
+    display: inline-block;
+    vertical-align:top; 
+    
+    height: 250px;
+    width: 350px;
+
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.certifcation_box{
+    display: inline-block;
+    background-image: url(gifs/Cert_box.png);
+    height: 250px;
+    width: 500px;
+
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.cert_text_align{
+    display: inline-block;
+
+    height: 250px;
+    width: 484px;
+
+    margin-top:10px;
+    margin-left:10px
+}
+#Box_Align_1{
+    margin-top:140px;
+}
+
+#Box_Align_2{
+    margin-top:120px;
+}
+
+.cert1{
+    
+    width: 100%;
+}

@@ -1,0 +1,230 @@
+ html{
+    background-image: url(gifs/star.gif);
+}
+
+#Workspace {
+    background-color: rgb(40, 38, 88);
+    background-image: url(gifs/worksapce.png);
+    height: 2000px;
+    width: 1000px;
+    margin:auto;
+}
+
+#about_me {
+    display:inline-block;
+   
+    background-image: url("gifs/aboutme.gif");
+    height:213px;
+    width:900px;
+
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+
+
+#Workspace_2 {
+    display:inline-block;
+    
+
+    height:1630px;
+    width:900px;
+
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+
+#box_1 {
+    display:inline-block;
+    background-image: url(gifs/border\ 1.png);
+    
+
+    height:450px;
+    width: 430px;
+    margin-left: 10px;
+    
+}
+
+#Good_morning {
+    display:inline-block;
+    
+
+    height:299px;
+    width: 299px;
+
+    margin-left: 77px;
+    margin-top:67px
+}
+
+
+#box_2  {
+    display:inline-block;
+    position:absolute;
+    background-image: url(gifs/border\ 2.png);
+
+    color:white;
+    height:450px;
+    width: 430px;
+
+    margin-left: 20px;
+
+}
+
+#box_3  {
+    display:inline-block;
+    
+    background-image: url(gifs/Sequence-01.gif);
+    color:white;
+    height: 750px;
+    width: 900px;
+
+    margin-top: 50px;
+
+}
+
+#box_3_sub{
+    display:inline-block;
+    
+    
+    color:white;
+    height: 450px;
+    width: 888px;
+
+    margin-top: 250px;
+    margin-left: 2px
+}
+#box_4  {
+    display:inline-block;
+    
+    background-image: url("gifs/border\ 4.png");
+    color:white;
+    height: 335px;
+    width: 900px;
+
+    margin-top: 50px;
+
+}
+
+.sub_box4 {
+    
+    color:white;
+    display:inline-block;
+    height: 50px;
+    width: 847px;
+    
+    margin-top: 150px;
+    margin-left: 25px;
+    text-align: center;
+}
+
+#sub_box{
+    display:inline-block;
+    
+    background-color: rgb(20, 19, 46);
+    color:white;
+    text-align:center;
+    
+    height:30px;
+    width:299px;
+
+    margin-top: 21px;
+    margin-left: 78px;
+    
+   
+}
+
+#sub_sub_box{
+    display:inline-block;
+    
+    background-color: rgb(20, 19, 46);
+    color:white;
+    text-align:center;
+    
+    
+
+    margin-top: 4px;
+  
+    
+   
+}
+
+#tablet {
+    display:inline-block;
+    width: 300px;
+    margin-left: 60px;
+    
+}
+.evidence_button{
+   
+    color:rgb(101, 25, 223);
+}
+
+#about_me_paragraph{
+    margin-left: 20px;
+}
+
+.link_button{
+    display: inline-block;
+    border: none;
+    background: none;
+    padding:none;
+    
+    height: 200px;
+    width: 420px;
+    margin-left: 18px;
+    cursor: pointer;
+}
+
+.link_button_2{
+    display: inline-block;
+    border: none;
+    background: none;
+    padding:none;
+    
+    height: 200px;
+    width: 420px;
+    margin-left: 235px;
+    cursor: pointer;
+}
+
+#link_link{
+    color:white;
+    font-size:20px;
+}
+
+
+#cert_button{
+    background-image: url(gifs/buttons/1/stationary.png);
+}
+#cert_button:hover{
+    background-image: url(gifs/buttons/1/hover.gif);
+}
+#cert_button:active{
+    background-image: url(gifs/buttons/1/pressed.png);
+}
+
+#Senior_button{
+    background-image: url(gifs/buttons/2/stationary.png)
+}
+
+#Senior_button:hover{
+    background-image: url(gifs/buttons/2/hover.gif)
+}
+
+#Senior_button:active{
+    background-image: url(gifs/buttons/2/pressed.png)
+}
+
+#Work_button{
+    background-image: url(gifs/buttons/3/stationary.png)
+    
+}
+
+#Work_button:hover{
+    background-image: url(gifs/buttons/3/hover.gif)
+}
+
+#Work_button:active{
+    background-image: url(gifs/buttons/3/pressed.png)
+}

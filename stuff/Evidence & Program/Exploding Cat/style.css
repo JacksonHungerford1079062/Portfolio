@@ -1,0 +1,19 @@
+ .Text {
+    text-align: center;
+    font-size: larger;
+    font-family: comic sans ms;
+    margin-top: 10rem;
+    color:white;
+}
+
+.Cat {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cool {
+    background-image: url('Assests/Website-Background.gif');
+    background-repeat:repeat;
+}
+

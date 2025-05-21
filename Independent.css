@@ -1,0 +1,105 @@
+html{
+    background-image:url(gifs/star.gif);
+}
+
+#Workspace {
+    background-color: rgb(40, 38, 88);
+    height: 14750px;
+    width: 1000px;
+    margin:auto;
+    color: white;
+}
+#go_back {
+    margin-left:50px;
+    color:rgb(101, 25, 223);
+}
+
+#title{
+    display: inline-block;
+    background-image: url(gifs/Work_Title.gif);
+    height:106.5px;
+    width:450px;
+
+    margin-top: 50px;
+    margin-left: 140px;
+    
+}
+ .Independent_section{
+    position:relative;
+    display: inline-block;
+    background-color: rgb(20, 19, 46);
+    width: 900px;
+    height: 150px;
+    margin-left:50px;
+
+    color:white;
+ }
+
+ #graphic1{
+    
+    position:relative;
+    width:50%;
+
+    margin-top: 50px;
+    margin-left:100px;
+ }
+ #graphic2{
+    
+    position:relative;
+    width:50%;
+
+    margin-left:100px;
+    top: -100px;
+    left: 300px;
+ }
+ #graphic3{
+    
+    position:relative;
+    width:50%;
+
+    margin-left:100px;
+    top: -250px;
+    left: 50px;
+ }
+
+#photoshop{
+    
+    top: -200px;
+}
+
+#graphic5{
+    
+    position:relative;
+    width:50%;
+
+    margin-left:100px;
+    top: -110px;
+    left: 50px;
+ }
+
+ #coding{
+    
+    top: -50px;
+}
+
+#graphic6{
+    
+    position:relative;
+    width:50%;
+
+    margin-left:100px;
+    top: -130px;
+    left: -20px;
+ }
+
+ #video{
+    display:inline-block;
+    position:relative;
+    margin-left:180px;
+    top:-150px;
+ }
+
+ #motion{
+    
+    top: -100px;
+}
